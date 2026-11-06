@@ -1,0 +1,10 @@
+.idea/
+.env
+.env.*
+!.env.example
+*.local
+
+node_modules/
+dist/
+
+.DS_Store
