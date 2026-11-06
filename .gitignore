@@ -1,10 +1,20 @@
 .idea/
+.vscode/*
+!.vscode/extensions.json
 .env
 .env.*
 !.env.example
 *.local
+*.log
+logs
 
 node_modules/
 dist/
+dist-ssr/
 
 .DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
